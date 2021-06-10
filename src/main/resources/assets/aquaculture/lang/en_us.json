@@ -203,7 +203,7 @@
   "aquaculture.message9": "If you get this, this is you from the future, do NOT eat the porkchop.",
   "aquaculture.message10": "Admit one, Davy Jones' Locker.",
   "aquaculture.message11": "9.17 N 19.89 E",
-  "aquaculture.message12": "Neptunite is REAL, I tell you! I wasn't making it up!",
+  "aquaculture.message12": "Neptunium is REAL, I tell you! I wasn't making it up!",
   "aquaculture.message13": "Enlarge your Fishing Rod for only 19.95 Gold! Guaranteed!",
   "aquaculture.message14": "What the hell is Fishallurgy? Some sort of reaction to fish?",
   "aquaculture.message15": "WHALE BURGERS! 2x Bread + Whale Steak! Remember those!?",
@@ -300,8 +300,8 @@
   "aquaculture.subtitles.jellyfish_flop": "Jellyfish flops",
   "aquaculture.subtitles.fish_ambient": "Fish swims",
   "aquaculture.subtitles.fish_death": "Fish dies",
-  "aquaculture.subtitles.fish_flop": "Fish flps",
-  "aquaculture.subtitles.fish_hurt": "fish hurts",
+  "aquaculture.subtitles.fish_flop": "Fish flops",
+  "aquaculture.subtitles.fish_hurt": "Fish hurts",
   "aquaculture.subtitles.fish_collide": "Fish collides",
   "aquaculture.subtitles.bottle_open": "Bottle breaks"
 }
